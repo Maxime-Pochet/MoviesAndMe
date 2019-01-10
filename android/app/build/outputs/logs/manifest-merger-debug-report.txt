@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a674011c999a61126fda232e1fa45c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/59295ce6cab76eafa13555a781f8bfca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b143133fbbd14e13c5e5d173421f83df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1350fa5dd41a84ed482e509932401da2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/695e04f7ca683ca6cc2c53767654d243/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fd108c0e934c7b44a3738a5a84d01119/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a51b024cbd47af940f742e31d1c12dbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/642ae3b987617c3daeb1b141b6a34467/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/fresco-0.8.1.aar/60a0a89f5a46bdd6460e614ed6ffd28f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.8.1.aar/c15cb2f4b53eb7633a3c7e2a1f0ad8e5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.8.1.aar/11e0f3d3aba0afeae5dfef44353d9a4b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/drawee-0.8.1.aar/184eec324f8084fb1be2e6ff7dde96c7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4a2217e780a230aecab9ec6f23834de/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r174650] /home/maxime/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5370143a07e1172dcf859e9d094ee915/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/fbcore-0.8.1.aar/42eacdef09e7e72032bb66c4b1e81ba6/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/89587a4bcd398f91aac71a840c57c810/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cae4e54ba5210ee28897fd676769ddf3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c76c6c9979798305642a50a9048e7027/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3213233bec930a3d94cd6a72036e7266/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4a2217e780a230aecab9ec6f23834de/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4a2217e780a230aecab9ec6f23834de/AndroidManifest.xml:22:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/maxime/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5370143a07e1172dcf859e9d094ee915/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/maxime/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/5370143a07e1172dcf859e9d094ee915/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.moviesandme.MainActivity
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.20.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/d1862da5eea8f5d6ac7ff7601d514a46/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a674011c999a61126fda232e1fa45c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a674011c999a61126fda232e1fa45c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/59295ce6cab76eafa13555a781f8bfca/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/59295ce6cab76eafa13555a781f8bfca/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b143133fbbd14e13c5e5d173421f83df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b143133fbbd14e13c5e5d173421f83df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1350fa5dd41a84ed482e509932401da2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1350fa5dd41a84ed482e509932401da2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/695e04f7ca683ca6cc2c53767654d243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/695e04f7ca683ca6cc2c53767654d243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fd108c0e934c7b44a3738a5a84d01119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fd108c0e934c7b44a3738a5a84d01119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a51b024cbd47af940f742e31d1c12dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a51b024cbd47af940f742e31d1c12dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/642ae3b987617c3daeb1b141b6a34467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/642ae3b987617c3daeb1b141b6a34467/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/fresco-0.8.1.aar/60a0a89f5a46bdd6460e614ed6ffd28f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/fresco-0.8.1.aar/60a0a89f5a46bdd6460e614ed6ffd28f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.8.1.aar/c15cb2f4b53eb7633a3c7e2a1f0ad8e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.8.1.aar/c15cb2f4b53eb7633a3c7e2a1f0ad8e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.8.1.aar/11e0f3d3aba0afeae5dfef44353d9a4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.8.1.aar/11e0f3d3aba0afeae5dfef44353d9a4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/drawee-0.8.1.aar/184eec324f8084fb1be2e6ff7dde96c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/drawee-0.8.1.aar/184eec324f8084fb1be2e6ff7dde96c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4a2217e780a230aecab9ec6f23834de/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/d4a2217e780a230aecab9ec6f23834de/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/fbcore-0.8.1.aar/42eacdef09e7e72032bb66c4b1e81ba6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/maxime/.gradle/caches/transforms-1/files-1.1/fbcore-0.8.1.aar/42eacdef09e7e72032bb66c4b1e81ba6/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/89587a4bcd398f91aac71a840c57c810/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/89587a4bcd398f91aac71a840c57c810/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cae4e54ba5210ee28897fd676769ddf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cae4e54ba5210ee28897fd676769ddf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c76c6c9979798305642a50a9048e7027/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c76c6c9979798305642a50a9048e7027/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3213233bec930a3d94cd6a72036e7266/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/maxime/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3213233bec930a3d94cd6a72036e7266/AndroidManifest.xml:20:5-44
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/maxime/Documents/WildCodeSchool/React-Native/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
