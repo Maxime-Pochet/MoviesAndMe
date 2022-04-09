@@ -5,7 +5,7 @@
     "ios": "react-native run-ios"
   },
   "dependencies": {
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "numeral": "^2.0.6",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
